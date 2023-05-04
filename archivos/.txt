@@ -1,0 +1,26 @@
+
+    ........................................................
+    DATOS DEL PEDIDO
+    Nombre del Cliente: 
+    Dirección: 
+    Especialidad:
+    Cantidad: 
+    Cantidad: 
+    Cantidad: 
+
+    if(){
+        Pizza de Jamon y Queso
+        Cantidad: 
+    }
+
+    if(){
+        Pizza Napolitana
+        Cantidad: 
+    }
+
+    if(){
+        Pizza de Mozzarella
+        Cantidad: 
+    }
+
+    

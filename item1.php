@@ -11,6 +11,12 @@
 
 <style>
 
+    @media (min-width: 768px) {
+        .container {
+            max-width: 600px;
+        }
+    }
+
     body {
         background-color: #EEEEEE;
     }
@@ -39,9 +45,24 @@
         color: white;
     }
 
+    a {
+        text-decoration: none;
+        text-transform: uppercase;
+        background-color: #658864;
+        padding: 15px;
+        color: white;
+        margin-left: 50px;
+    }
+
+    a:hover {
+        color: #DDDDDD;
+    }
+
 </style>
 
 <body>
+    <br>
+    <a href="./index.php">Regresa</a>
 
     <div class="container">
         <form class="formulario">
